@@ -18,6 +18,9 @@ Resources I Used:
 Remix Icons: A set of sleek icons to complement the design.
 Shery.js: My go-to for adding cool animations and effects.
 
+![Screenshot 2024-08-22 235128](https://github.com/user-attachments/assets/784d1c07-41cf-4877-8cba-18f4a5183434)
+![Screenshot 2024-08-22 235110](https://github.com/user-attachments/assets/1644e048-d30c-494c-8aea-7cd270099a93)
+
 
 *want to check out*---
-Go to this link --
+Go to this link --https://dharam011.github.io/cuberto/
